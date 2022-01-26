@@ -14,14 +14,14 @@
 ```table
 {
    "date": "2022.01.26"
-   "Responsable": "Digital Leader"
+   "Responsible": "Digital Leader"
    "Name": "Siclano"
    "e-mail": "siclano@zzz.com.br"
    "version": "1.0"
    "highlight: "The main project in execution is .... with X% of completition and expected to be released at ..... . The benefits ...."
 }
 ```
-[Details](https://github.com/mauricionoris/ds-template/blob/main/Squad_Oferta.ipynb)
+[Details](https://github.com/mauricionoris/ds-template/blob/main/Squad_1.ipynb)
 
 
 # Squad 2
