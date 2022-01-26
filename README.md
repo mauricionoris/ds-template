@@ -1,4 +1,7 @@
-
+   ---
+   date: "2018-05-30"
+   Author: "Susan Smith"
+   ---
 ---
 date: 2022.01.26
 title: "Summary Page"
